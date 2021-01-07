@@ -1,0 +1,20 @@
+
+h1 {
+    font-size: x-large;
+}
+
+h2 {
+    font-size: larger;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+a {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    margin: 1em;
+}
